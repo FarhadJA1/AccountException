@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# Examples\Exception\Account-Exception\Account-Exception\bin\Debug\netcoreapp3.1\Account-Exception.exe
+C:\Users\ASUS\Desktop\C# Examples\Exception\Account-Exception\Account-Exception\bin\Debug\netcoreapp3.1\Account-Exception.deps.json
+C:\Users\ASUS\Desktop\C# Examples\Exception\Account-Exception\Account-Exception\bin\Debug\netcoreapp3.1\Account-Exception.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# Examples\Exception\Account-Exception\Account-Exception\bin\Debug\netcoreapp3.1\Account-Exception.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# Examples\Exception\Account-Exception\Account-Exception\bin\Debug\netcoreapp3.1\Account-Exception.dll
+C:\Users\ASUS\Desktop\C# Examples\Exception\Account-Exception\Account-Exception\bin\Debug\netcoreapp3.1\Account-Exception.pdb
+C:\Users\ASUS\Desktop\C# Examples\Exception\Account-Exception\Account-Exception\obj\Debug\netcoreapp3.1\Account-Exception.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# Examples\Exception\Account-Exception\Account-Exception\obj\Debug\netcoreapp3.1\Account-Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# Examples\Exception\Account-Exception\Account-Exception\obj\Debug\netcoreapp3.1\Account-Exception.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# Examples\Exception\Account-Exception\Account-Exception\obj\Debug\netcoreapp3.1\Account-Exception.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# Examples\Exception\Account-Exception\Account-Exception\obj\Debug\netcoreapp3.1\Account-Exception.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# Examples\Exception\Account-Exception\Account-Exception\obj\Debug\netcoreapp3.1\Account-Exception.dll
+C:\Users\ASUS\Desktop\C# Examples\Exception\Account-Exception\Account-Exception\obj\Debug\netcoreapp3.1\Account-Exception.pdb
+C:\Users\ASUS\Desktop\C# Examples\Exception\Account-Exception\Account-Exception\obj\Debug\netcoreapp3.1\Account-Exception.genruntimeconfig.cache
